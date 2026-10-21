@@ -18,7 +18,7 @@ Rules applied throughout:
 | | |
 |---|---|
 | **Was** | "Inbound AI Appointment Setter. Convert inbound calls into booked appointments automatically." |
-| **Now** | Eyebrow: *Free 30-day founding pilot*. Title: **AI phone receptionist for Pulpería**. Sub: *Picks up the calls your team can't get to, in English and Spanish, 24/7. Only the calls you miss. Your number never changes.* Four facts under it: 30 days or 300 call minutes · $0, no card, no contract · Off in 10 seconds (`*73`) · Your call data is yours. |
+| **Now** | Eyebrow: *Free 30-day founding pilot*. Title: **AI phone receptionist for Pulpería**. Sub: *Picks up the calls your team can't get to, in English and Spanish, 24/7. Only the calls you miss. Your number never changes.* Four facts under it: 30 days free · $0, no card, no contract · Off in 10 seconds (`*73`) · Your call data is yours. |
 | **Why** | Restaurants take tables, not appointments. "Books automatically" is exactly what the pilot does not do. The four facts are the pilot terms from the Reactivation Plan and the one-pager. |
 
 ## 2. The Problem
@@ -42,7 +42,7 @@ Rules applied throughout:
 | | |
 |---|---|
 | **Was** | "24/7 · 95% call-to-appointment conversion · −60% no-shows" and a Monthly Value table adding to $13,400/month, $160,800/year. |
-| **Now** | Heading: **The 30-day scorecard, agreed before go-live.** Three tiles: **90%+** missed calls handled (share of AI-answered calls that end in a request, a message or an answered question; 90%+ go · 75–90% look closer · under 75% no) · **≤ 2** serious mistakes in 30 days (wrong hours or price, a request claimed with no text sent, a card number taken, a double booking) · **300** free minutes. Table **What you get each week**: calls caught · requests sent to your supervisor · requests that became bookings × covers × your average check (money recovered) · serious mistakes · your team's view from the 15-minute check-in. Line under it: *Week 0 sets the baseline. Day 30 is a decision against these numbers, then we set the price together. Numbers hit but something still open means go, with conditions.* |
+| **Now** | Heading: **The 30-day scorecard, agreed before go-live.** Three tiles: **90%+** missed calls handled (share of AI-answered calls that end in a request, a message or an answered question; 90%+ go · 75–90% look closer · under 75% no) · **≤ 2** serious mistakes in 30 days (wrong hours or price, a request claimed with no text sent, a card number taken, a double booking) · **30** days free, with the phone and AI costs covered. Table **What you get each week**: calls caught · requests sent to your supervisor · requests that became bookings × covers × your average check (money recovered) · serious mistakes · your team's view from the 15-minute check-in. Line under it: *Week 0 sets the baseline. Day 30 is a decision against these numbers, then we set the price together. Numbers hit but something still open means go, with conditions.* |
 | **Why** | The scorecard is from the meeting prep (Vapi playbook rule: set thresholds before data comes in). Percentages like 95% conversion have no source and would break the anti-fabrication rule. |
 
 ## 5. 1-Week Implementation
@@ -58,7 +58,7 @@ Rules applied throughout:
 | | |
 |---|---|
 | **Was** | Six checkmarks including "Calendar integration (Google, Outlook, etc.)" and "SMS & email confirmation system". |
-| **Now** | Three columns. **In the pilot:** AI host set up with Pulpería's hours, full menu and FAQ · English and Spanish · forwarding for busy and no-answer calls only · request text or email to your supervisor · "request received" text to the guest · live transfer or callback · missed-call sheet · weekly 15-minute check-in and scorecard · AI disclosure and recording notice on every call · `*73` off switch · 300 free minutes · your data stays yours. **Not in the pilot, on purpose:** writing into OpenTable, Resy or your POS · confirming availability · taking payments or card numbers · delivery orders · custom builds ("Possible later. Let's prove the phones first."). **What we ask in return:** a yes or no at day 30 · a short quote if the results are good · the 15-minute weekly check-in · intros to two owners if you're happy. |
+| **Now** | Three columns. **In the pilot:** AI host set up with Pulpería's hours, full menu and FAQ · English and Spanish · forwarding for busy and no-answer calls only · request text or email to your supervisor · "request received" text to the guest · live transfer or callback · missed-call sheet · weekly 15-minute check-in and scorecard · AI disclosure and recording notice on every call · `*73` off switch · your data stays yours. **Not in the pilot, on purpose:** writing into OpenTable, Resy or your POS · confirming availability · taking payments or card numbers · delivery orders · custom builds ("Possible later. Let's prove the phones first."). **What we ask in return:** a yes or no at day 30 · a short quote if the results are good · the 15-minute weekly check-in · intros to two owners if you're happy. |
 | **Why** | The four asks are the agreed exchange in the Reactivation Plan and the agreement template. The "not included" column is the "never say yes to custom work" rule, stated as a strength. |
 
 ## 7. Call to action
